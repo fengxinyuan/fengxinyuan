@@ -1,6 +1,6 @@
 # fxy_主页
 ### **Hi there**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px">
-<a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=WangYeQianger&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
+<a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=fengxinyuan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" /></a>
 
 I'm **冯鑫源**
 
@@ -22,7 +22,6 @@ I'm **冯鑫源**
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxinyuan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
 
 
-
 ## 🔥 **Developing Tools & Platforms**
 ![](https://img.shields.io/badge/%20-Windows10-brightgreen)
 ![](https://img.shields.io/badge/%20-IDLE-blue)
@@ -32,7 +31,3 @@ I'm **冯鑫源**
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px"> 
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yzyyz1387/yzyyz1387/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
-</div>
