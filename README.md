@@ -8,9 +8,6 @@
 
 My research primarily focuses on **Positive-Unlabeled Learning (PU Learning)**, deep metric learning, and their applications, particularly with graph data. I'm passionate about developing robust machine learning models under weak supervision.
 
-- 🎓 **Education:** MSc in Computer Science, Northwest A&F University (Expected 2026.06)
-  - Academic Excellence: Top 19% (24/128), Weighted Avg: 86.72/100, GPA: 3.53/4.0
-  - Awards: National励志奖学金, 曹德旺励志奖学金, Academic First-class Scholarship (x2)
 - 🔭 **Currently Working On:**
   - Advancing PU Learning methodologies, including positive guidance strategies and label disambiguation techniques.
   - Exploring deep traps for graph-level PU classification.
@@ -61,7 +58,6 @@ I have been actively involved in research projects and have contributed to sever
 ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/-PU_Learning-7A009A?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/-Deep_Learning-9C27B0?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Metric_Learning-673AB7?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/-Graph_Networks-4CAF50?style=flat-square&logoColor=white)
 
 **Tools & Platforms:**
