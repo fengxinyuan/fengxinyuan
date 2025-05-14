@@ -1,9 +1,5 @@
 # 冯鑫源 (Xinyuan Feng)
 
-<a><img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=fengxinyuan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&icon_color=fff&rank_icon=github" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fengxinyuan&label=Profile%20views&color=blueviolet&style=flat" alt="fengxinyuan" /> </p>
-
 👋 Hello! I'm **冯鑫源 (Xinyuan Feng)**, a Master's student at **Northwest A&F University (西北农林科技大学)**, majoring in Computer Science and Technology.
 
 My research primarily focuses on **Positive-Unlabeled Learning (PU Learning)**, deep metric learning, and their applications, particularly with graph data. I'm passionate about developing robust machine learning models under weak supervision.
