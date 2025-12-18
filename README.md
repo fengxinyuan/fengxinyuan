@@ -1,85 +1,139 @@
-# 冯鑫源 (Xinyuan Feng)
+<div align="center">
 
-👋 Hello! I'm **冯鑫源 (Xinyuan Feng)**, a Master's student at **Northwest A&F University (西北农林科技大学)**, majoring in Computer Science and Technology.
+# 👋 Hi, I'm Xinyuan Feng (冯鑫源)
 
-My research primarily focuses on **Positive-Unlabeled Learning (PU Learning)**, deep metric learning, and their applications, particularly with graph data. I'm passionate about developing robust machine learning models under weak supervision.
+**Graduate Student @ Tianjin University** | **AI Developer & Researcher**
 
-- 🔭 **Currently Working On:**
-  - Advancing PU Learning methodologies, including positive guidance strategies and label disambiguation techniques.
-  - Exploring deep traps for graph-level PU classification.
-- 🌱 **Key Research Interests:**
-  - Positive-Unlabeled Learning (PU Learning)
-  - Deep Metric Learning
-  - Graph Neural Networks
-  - Weakly Supervised Learning
-- 📫 **How to reach me:** <a href="mailto:fengxy@nwafu.edu.cn">fengxy@nwafu.edu.cn</a>
-- 🔗 **Other Profiles:** [My Gitee](https://gitee.com/fengxy02)
-- 🎯 **Goal:** To leverage my skills in machine learning and software development to contribute to innovative research and tackle challenging real-world problems.
+[![Email](https://img.shields.io/badge/Email-fengxy%40nwafu.edu.cn-red?style=flat-square&logo=gmail)](mailto:fengxy@nwafu.edu.cn)
+[![Gitee](https://img.shields.io/badge/Gitee-fengxy02-C71D23?style=flat-square&logo=gitee)](https://gitee.com/fengxy02)
+
+</div>
 
 ---
 
-## 🔬 **Research & Publications**
+## 👨‍💻 About Me
 
-I have been actively involved in research projects and have contributed to several publications:
+I'm a graduate student at **Tianjin University**, passionate about **AI for Science (AI4S)** and **Intelligent Agent Systems**. I love building practical AI tools and exploring how agents can enhance developer productivity.
 
-* **PU Learning with Positive Guidance:** Developing novel methods inspired by "trap" mechanisms to improve PU classification by attracting positive samples to a "bait point", avoiding noise from explicit negative sampling. (Led a National Innovation Project on this).
-* **Graph PU Learning via Label Disambiguation:** Proposed a new learning method combining bootstrapping for node representation and center-region-based label disambiguation to significantly boost graph PU learning performance.
+- 🔬 Researching **AI4S** and **Agent-based Systems**
+- 🛠️ Building developer tools with Python and modern AI frameworks
+- 🤖 Exploring LLM applications and autonomous agents
+- 🌱 Open source enthusiast, constantly learning and sharing
+
+### 🎓 Education
+
+- **M.S. in Computer Science** - Tianjin University (2024 - Present)
+  - Focus: AI for Science, Intelligent Agents
+- **B.S. in Computer Science** - Northwest A&F University (2020 - 2024)
+  - Focus: Deep Learning, Machine Learning
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fengxinyuan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxinyuan&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fengxinyuan&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Matlab&logoColor=white)
+
+### ML & Data Science
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-9C27B0?style=flat-square&logoColor=white)
+![Graph Neural Networks](https://img.shields.io/badge/-GNN-4CAF50?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
+![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔄 [Claude Switch](https://github.com/fengxinyuan/claude-switch)
+**Claude API Model Switching Tool**
+
+A command-line tool for seamlessly switching between different Claude API providers with real-time status monitoring.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-4A90E2?style=flat-square&logoColor=white)
+
+**Features:**
+- ⚡ One-click API provider switching with instant environment variable updates
+- 📊 Real-time API health monitoring and response time tracking
+- 🔐 PBKDF2 + Fernet encryption for sensitive credentials
+- 🌍 Cross-platform support (Windows/Linux/macOS)
+- 📈 Usage statistics and automatic failover to available APIs
+
+### 🤖 [Git Commit AI (GCA)](https://github.com/fengxinyuan/git-commit-ai)
+**AI-Powered Commit Message Generator**
+
+An intelligent tool that automatically generates conventional commit messages by analyzing git changes and commit history.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-FF6B6B?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+**Features:**
+- 🎯 Auto-generates Conventional Commit compliant messages
+- 🧠 Context-aware analysis using commit history
+- 🔌 Supports any OpenAI-compatible LLM (OpenAI, DeepSeek, Ollama)
+- 🌐 Bilingual output (Chinese/English)
+- 📊 Change impact analysis and risk assessment
+- 🔗 MCP Server integration for Claude Code
+
+---
+
+## 📚 Research & Academic Background
+
+**Current Focus:** AI for Science (AI4S) · Intelligent Agent Systems · LLM Applications
+
+**Previous Research:** During my undergraduate studies, I worked on weakly supervised learning, particularly in Positive-Unlabeled Learning and Deep Metric Learning for graph data.
 
 **Selected Publications:**
-* *Bootstrap Deep Metric for Seed Expansion in Attributed Networks* - **SIGIR 2024** (Student 3rd Author)
-* *Graph Positive-Unlabeled Learning via Bootstrapping Label Disambiguation* - **Neural Networks** (Student 2nd Author, Accepted)
-* *Pog-PU: Positive Guidance for Positive-Unlabeled Learning* - **KDD 2025** (Student 1st Author, Submitted)
-* *DML-PU: Deep Metric Learning for Positive-Unlabeled Classification* - **Applied Intelligence** (1st Author, Submitted)
-* *Representative Negative Sampling for Graph Positive-Unlabeled Learning* - **Neurocomputing** (2nd Author, Submitted)
-* *DT-GPU: Learning Deep Traps for Graph-Level Positive-Unlabeled Classification* - **NeurIPS 2025** (Student 2nd Author, Submitted)
+- 📄 *Bootstrap Deep Metric for Seed Expansion in Attributed Networks* - **SIGIR 2024**
+- 📄 *Graph Positive-Unlabeled Learning via Bootstrapping Label Disambiguation* - **Neural Networks** (Accepted)
+- 📄 *Learning Deep Traps for Graph-Level PU Classification* - **NeurIPS 2025** (Submitted)
 
-**Patents:**
-* A deep metric learning system for positive-unlabeled classification (发明专利)
-
-*(For a full list, please get in touch or await updates on academic profiles like Google Scholar.)*
+**Innovation & Patents:**
+- Led a National Innovation Project on PU Learning methodologies
+- Patent: Deep metric learning system for positive-unlabeled classification (发明专利)
 
 ---
 
-## 🛠️ **Skills & Expertise**
+## 🏆 Achievements
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengxinyuan&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
-
-**Programming Languages:**
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=Matlab&logoColor=white)
-![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
-
-**Machine Learning & Data Science:**
-![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![](https://img.shields.io/badge/-PU_Learning-7A009A?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Deep_Learning-9C27B0?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/-Graph_Networks-4CAF50?style=flat-square&logoColor=white)
-
-**Tools & Platforms:**
-![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![](https://img.shields.io/badge/-Conda-34A853?style=flat-square&logo=Anaconda&logoColor=white)
-![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white)
-![](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-
-**Other:**
-- Data Collection & Preprocessing
-- Experimental Design & Analysis
-- Algorithm Implementation
-- English Proficiency: CET-4, CET-6
+🥈 National Second Prize - Robot Developer Competition (Programming Skills)
+🥉 National Third Prize - China Collegiate Computing Contest
+🥇 First Prize - National University Mathematics Competition (Shaanxi Region)
+🥈 National Second Prize - Computer Competency Challenge
 
 ---
 
-## 🏆 **Awards & Competitions**
-* 睿抗机器人开发者大赛编程技能赛 - **National Second Prize**
-* 中国计算机大赛 - 团体设计天梯赛 - **National Third Prize**
-* 全国大学生数学竞赛 (陕西赛区) - **First Prize**
-* 全国高校计算机能力挑战赛 - **National Second Prize**
+<div align="center">
 
----
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="75px">
-</p>
+**Thanks for visiting! Feel free to reach out for collaboration or just a chat about ML and tech! 🤝**
+
+<img src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="60px">
+
+</div>
