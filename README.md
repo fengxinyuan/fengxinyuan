@@ -22,9 +22,9 @@ I'm a graduate student at **Tianjin University**, passionate about **AI for Scie
 
 ### 🎓 Education
 
-- **M.S. in Computer Science** - Tianjin University (2024 - Present)
+- **M.S. in Computer Science** - Tianjin University (2026 - Present)
   - Focus: AI for Science, Intelligent Agents
-- **B.S. in Computer Science** - Northwest A&F University (2020 - 2024)
+- **B.S. in Computer Science** - Northwest A&F University (2022 - 2026)
   - Focus: Deep Learning, Machine Learning
 
 ---
@@ -133,7 +133,5 @@ An intelligent tool that automatically generates conventional commit messages by
 <div align="center">
 
 **Thanks for visiting! Feel free to reach out for collaboration or just a chat about ML and tech! 🤝**
-
-<img src="https://cdn.jsdelivr.net/gh/yzyyz1387/WangYeQianger/nwafu.png" height="60px">
 
 </div>
