@@ -15,48 +15,46 @@
 
 I'm an undergraduate student at **Northwest A&F University**, passionate about **AI for Science (AI4S)** and **Intelligent Agent Systems**. I love building practical AI tools and exploring how agents can enhance developer productivity.
 
-- 🔬 Researching **AI4S** and **Agent-based Systems**
-- 🛠️ Building developer tools with Python and modern AI frameworks
-- 🤖 Exploring LLM applications and autonomous agents
-- 🌱 Open source enthusiast, constantly learning and sharing
-- 🎓 Will be pursuing M.S. at **Tianjin University** starting 2026
-
-### 🎓 Education
-
-- **B.S. in Computer Science** - Northwest A&F University (2022 - 2026, Current)
-  - Focus: Deep Learning, Machine Learning, AI4S
-- **M.S. in Computer Science** - Tianjin University (Starting 2026)
-  - Upcoming Focus: AI for Science, Intelligent Agents
+- 🔬 Researching AI4S and Agent-based Systems
+- 🛠️ Building developer tools with Python and LLM
+- 🎓 Will pursue M.S. at **Tianjin University** starting 2026
 
 ---
 
-## 📚 Research & Academic Background
+## 🎓 Education
 
-**Current Focus:** AI for Science (AI4S) · Intelligent Agent Systems · LLM Applications
+**B.S. in Computer Science** - Northwest A&F University (2022 - 2026)
+- Focus: Deep Learning, Machine Learning, AI4S
 
-**Undergraduate Research:** I'm actively involved in research on weakly supervised learning, particularly in Positive-Unlabeled Learning and Deep Metric Learning for graph data.
-
-**Selected Publications:**
-- 📄 *Bootstrap Deep Metric for Seed Expansion in Attributed Networks* - **SIGIR 2024**
-- 📄 *Graph Positive-Unlabeled Learning via Bootstrapping Label Disambiguation* - **Neural Networks** (Accepted)
-
-**Innovation & Patents:**
-- Leading a National Innovation Project on PU Learning methodologies
-- Patent: Deep metric learning system for positive-unlabeled classification (发明专利)
+**M.S. in Computer Science** - Tianjin University (2026 - )
+- Focus: AI for Science, Intelligent Agents
 
 ---
 
-## 🚀 Open Source Projects
+## 📚 Research
 
-**[Claude Switch](https://github.com/fengxinyuan/claude-switch)** - CLI tool for switching Claude API providers with health monitoring and encryption support.
+**Focus:** AI for Science · Intelligent Agents · Weakly Supervised Learning
 
-**[Git Commit AI](https://github.com/fengxinyuan/git-commit-ai)** - AI-powered tool that auto-generates conventional commit messages with LLM integration and MCP server support.
+**Publications:**
+- *Bootstrap Deep Metric for Seed Expansion in Attributed Networks* - SIGIR 2024
+- *Graph Positive-Unlabeled Learning via Bootstrapping Label Disambiguation* - Neural Networks (Accepted)
+
+**Projects:**
+- National Innovation Project on PU Learning methodologies
+- Patent: Deep metric learning system for positive-unlabeled classification
 
 ---
 
-## 🏆 Achievements
+## 🚀 Open Source
 
-- 🥈 National Second Prize - Robot Developer Competition (Programming Skills)
+- **[Claude Switch](https://github.com/fengxinyuan/claude-switch)** - CLI tool for switching Claude API providers with health monitoring
+- **[Git Commit AI](https://github.com/fengxinyuan/git-commit-ai)** - AI-powered conventional commit message generator with LLM integration
+
+---
+
+## 🏆 Awards
+
+- 🥈 National Second Prize - Robot Developer Competition
 - 🥉 National Third Prize - China Collegiate Computing Contest
-- 🥇 First Prize - National University Mathematics Competition (Shaanxi Region)
+- 🥇 First Prize - National Mathematics Competition (Shaanxi)
 - 🥈 National Second Prize - Computer Competency Challenge
