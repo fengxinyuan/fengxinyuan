@@ -30,42 +30,6 @@ I'm an undergraduate student at **Northwest A&F University**, passionate about *
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔄 [Claude Switch](https://github.com/fengxinyuan/claude-switch)
-**Claude API Model Switching Tool**
-
-A command-line tool for seamlessly switching between different Claude API providers with real-time status monitoring.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-4A90E2?style=flat-square&logoColor=white)
-
-**Features:**
-- ⚡ One-click API provider switching with instant environment variable updates
-- 📊 Real-time API health monitoring and response time tracking
-- 🔐 PBKDF2 + Fernet encryption for sensitive credentials
-- 🌍 Cross-platform support (Windows/Linux/macOS)
-- 📈 Usage statistics and automatic failover to available APIs
-
-### 🤖 [Git Commit AI (GCA)](https://github.com/fengxinyuan/git-commit-ai)
-**AI-Powered Commit Message Generator**
-
-An intelligent tool that automatically generates conventional commit messages by analyzing git changes and commit history.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![LLM](https://img.shields.io/badge/-LLM-FF6B6B?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
-**Features:**
-- 🎯 Auto-generates Conventional Commit compliant messages
-- 🧠 Context-aware analysis using commit history
-- 🔌 Supports any OpenAI-compatible LLM (OpenAI, DeepSeek, Ollama)
-- 🌐 Bilingual output (Chinese/English)
-- 📊 Change impact analysis and risk assessment
-- 🔗 MCP Server integration for Claude Code
-
----
-
 ## 📚 Research & Academic Background
 
 **Current Focus:** AI for Science (AI4S) · Intelligent Agent Systems · LLM Applications
@@ -79,6 +43,14 @@ An intelligent tool that automatically generates conventional commit messages by
 **Innovation & Patents:**
 - Leading a National Innovation Project on PU Learning methodologies
 - Patent: Deep metric learning system for positive-unlabeled classification (发明专利)
+
+---
+
+## 🚀 Open Source Projects
+
+**[Claude Switch](https://github.com/fengxinyuan/claude-switch)** - CLI tool for switching Claude API providers with health monitoring and encryption support.
+
+**[Git Commit AI](https://github.com/fengxinyuan/git-commit-ai)** - AI-powered tool that auto-generates conventional commit messages with LLM integration and MCP server support.
 
 ---
 
